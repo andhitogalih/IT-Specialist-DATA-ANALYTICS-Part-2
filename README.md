@@ -62,6 +62,8 @@ The t-test results provide two main outputs:
 
 In t-test analysis, you usually set a prior significance level (usually 0.05) as a threshold to determine whether the results are statistically significant. If the p value is less than this threshold, you can reject the null hypothesis and conclude that there is a significant difference between the two groups being compared. However, if the p value is greater than that threshold, you fail to reject the null hypothesis, which means there is not enough evidence to say there is a significant difference.
 
+![alt text](https://github.com/andhitogalih/IT-Specialist-DATA-ANALYTICS-Part-2/blob/main/public/image/Outlier.png)
+
 # Regression Analysis
 Regression Analysis
 Regression analysis is a statistical technique used by data analysts to understand the relationship between one dependent variable and one or more independent variables. It helps in predicting the value of the dependent variable based on the values of the independent variables.
